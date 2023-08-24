@@ -1,0 +1,17 @@
+body{
+    background-color: aqua;
+}
+.not-found{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.not-found h1{
+    font-size: 40px;
+}
+
+img{
+    height: 300px;
+    width: 300px;
+}

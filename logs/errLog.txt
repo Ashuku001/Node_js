@@ -1,0 +1,9 @@
+20230824	08:27:29	Error:Not allowed by CORS
+20230824	08:27:29	Error:Not allowed by CORS
+20230824	09:47:25	TypeError:Cannot read properties of undefined (reading 'lastname')
+20230824	09:48:59	SyntaxError:Unexpected token } in JSON at position 45
+20230824	19:32:22	TypeError:Cannot read properties of undefined (reading 'roles')
+20230824	19:35:46	TypeError:Cannot read properties of undefined (reading 'roles')
+20230824	19:51:17	TypeError:rolesArray.include is not a function
+20230824	19:54:13	TypeError:rolesArray.include is not a function
+20230824	20:08:22	SyntaxError:Unexpected token } in JSON at position 16
