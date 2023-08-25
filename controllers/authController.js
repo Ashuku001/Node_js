@@ -4,6 +4,7 @@ const jwt = require('jsonwebtoken');
 
 const handleLogin = async (req, res) => {
     const { user, pwd } = req.body; // bodyt has an object with user and password
+    console.log(req.body)
     if (!user || !pwd) return res.status(400).json(
         { "message": "username and password required" });
     const foundUser = await User.findOne({username: user}).exec()

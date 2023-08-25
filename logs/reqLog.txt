@@ -517,3 +517,11 @@
 20230825	00:02:27	DELETE	undefined	/employees
 20230825	00:02:33	GET	undefined	/employees
 20230825	00:02:43	GET	undefined	/employees
+20230825	19:29:22	GET	undefined	/
+20230825	19:29:23	GET	undefined	/css/styles.css
+20230825	19:29:23	GET	undefined	/favicon.ico
+20230825	19:30:14	GET	undefined	/ds
+20230825	19:30:15	GET	undefined	/favicon.ico
+20230825	19:30:23	GET	undefined	/new-page
+20230825	19:30:24	GET	undefined	/favicon.ico
+20230825	19:33:17	POST	undefined	/auth
